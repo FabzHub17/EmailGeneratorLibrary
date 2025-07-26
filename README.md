@@ -150,8 +150,8 @@ Best regards,
 
 UN|DESA Office
 United Nations Department of Economic and Social Affairs
-c/o FAO HQs, Rooms: B001 - B006
+c/o FAO HQs, Rooms: -- --
 Via delle Terme di Caracalla - 00153 Rome – Italy
-Tel: (+39) 06-5705 4638
+Tel: ---------------
 ```
 #####################################################
