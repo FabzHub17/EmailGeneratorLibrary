@@ -3,6 +3,7 @@
 ## Overview
 
 This C# library provides a simple way to generate Outlook-compatible `.msg` email files. The library handles email composition, validation, and file generation with support for attachments, CC/BCC recipients, and custom formatting.
+You can also find a .NET c# console application (EmailDllTest) as well to test the library.
 
 ## Features
 
